@@ -16,8 +16,7 @@
 
 # Deploy on heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TheRiZoeL/SpamBot-deploy)
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Hinduputra/SpamBot
 
 # Support & Updates
 * [Channel](https://t.me/RiZoeLX)
